@@ -1,6 +1,6 @@
-# 💫 About Me:
-Atualmente estagiando na SEAD-GO<br>Graduando Sistemas de Informação na UFG<br>Front-End | Python | Java | C
+# Lucas Mota
 
+Sou graduando em Sistemas de Informação pela Universidade Federal de Goiás (UFG) e atualmente atuo como Estagiário de TI na SEAD-GO. Minha experiência tem sido principalmente voltada à análise e tratamento de dados, automação de processos e desenvolvimento de soluções para apoio à tomada de decisão. No estágio, trabalho com ferramentas como Excel, Power Query, Power BI e Python, desenvolvendo automações, análises e painéis para tratamento e acompanhamento de dados de servidores públicos.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucasmota08)
