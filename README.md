@@ -15,6 +15,3 @@ Sou graduando em Sistemas de Informação pela Universidade Federal de Goiás (U
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=lucasmota08&theme=vue-dark&hide_border=false" height="180" />
 </p>
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=lucasmota08&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
